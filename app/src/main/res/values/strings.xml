@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">SearchApp</string>
+    <string name="action_settings">Settings</string>
+    <string name="web_search">Web Search</string>
+    <string name="image_search">Image Search</string>
+    <string name="nw_off">Network unavailable</string>
+    <string name="load_web_results">Searching Web Results</string>
+    <string name="load_image_results">Searching Image Results</string>
+</resources>
